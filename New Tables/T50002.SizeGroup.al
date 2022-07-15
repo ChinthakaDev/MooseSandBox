@@ -33,6 +33,7 @@ table 50002 "Size Group"
             Caption = 'Description';
             DataClassification = ToBeClassified;
         }
+        //test - CD
 
     }
     keys
