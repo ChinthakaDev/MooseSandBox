@@ -15,7 +15,7 @@
             "enableSqlInformationDebugger": true,
             "server": "https://businesscentral.dynamics.com",
             "tenant": "4a6cd1df-6bd4-4ae8-a028-450f7f95bd60",
-            "schemaUpdateMode":"Synchronize"
+            "schemaUpdateMode":"ForceSync"
         }
     ]
 }
